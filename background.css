@@ -75,6 +75,10 @@ div > button /* Search button clicked */, input /* Text input in search field */
   color: #c9d1d9 !important;
 }
 
+.mw-headline, h1, h2, h3, h4, h5, h6 {
+  color: #c9d1d9 !important;
+}
+
 /* Hyperlinks */
 a, a > span {
   color: #58a6ff !important;
